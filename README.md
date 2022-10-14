@@ -9,9 +9,12 @@ pip install json
 ````
 
 | Commands | Function | Actif |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+|   :---:      |     :---:      |     :---:     |
+| help   | help commands     | True    |
+| cidr     | Search IP       | True    |
+| scanport     | Start Attack       | True    |
+| back     | back Home       | True    |
+
 
 ```json
 {
