@@ -9,11 +9,12 @@ pip install json
 ````
 
 ---
-name : help
+name: Feature request
 about: Suggest an idea for this project
 title: "[FEAT.]"
 labels: enhancement
 assignees: addi00000
+
 ---
 
 ![](https://github.com/TryWarzFiles/IP4-Attack/blob/main/img/screen1.PNG)
