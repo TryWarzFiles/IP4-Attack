@@ -8,6 +8,24 @@ pip install ipaddress
 pip install json
 ````
 
+```json
+{
+    "file_name": {
+        "file_CIDR": "CIRD"
+    },
+
+    "IP": {
+        "Host": "101.0.0.0/8",
+        "Port": "80"
+    },
+
+    "Discord": {
+        "opt": "True",
+        "url": "https://discord.com/api/webhooks/1022440894676349018/C-okhgU4X7TnK0rgzQ8EA6-tc4qeks2A-TWG52TfYZCKto5BKAX2hepQYcmkwxbNCNC1"
+        
+    }
+}
+```
 
 
 ![](https://github.com/TryWarzFiles/IP4-Attack/blob/main/img/screen1.PNG)
