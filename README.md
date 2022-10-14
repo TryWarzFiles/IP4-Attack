@@ -29,7 +29,7 @@ All Commands
     },
 
     "Discord": {
-        "opt": "True",
+        "opt": "True", // Notif Discord True/False
         "url": "WEBHOOK HERE" // Chang WEBHOOK
         
     }
