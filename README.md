@@ -8,5 +8,5 @@ pip install ipaddress
 pip install json
 ````
 
-![](https://github.com/TryWarzFiles/IP4-Attack/raw/main/screen1.png)
+![image](https://github.com/TryWarzFiles/IP4-Attack/raw/main/screen1.png)
 
