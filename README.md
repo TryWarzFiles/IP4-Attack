@@ -9,7 +9,7 @@ pip install json
 ````
 
 ---
-Commands : help
+name : help
 about: Suggest an idea for this project
 title: "[FEAT.]"
 labels: enhancement
