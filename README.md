@@ -8,6 +8,11 @@ pip install ipaddress
 pip install json
 ````
 
+| Commands | Function | Actif |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 ```json
 {
     "file_name": {
