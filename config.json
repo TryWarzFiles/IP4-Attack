@@ -1,11 +1,11 @@
 {
     "file_name": {
-        "file_CIDR": "CIRD" // Name File .txt
+        "file_CIDR": "CIRD" 
     },
 
     "IP": {
-        "Host": "101.0.0.0/8", // Exemple
-        "Port": "80" // Exmple
+        "Host": "101.0.0.0/8",
+        "Port": "80" 
     },
 
     "Discord": {
